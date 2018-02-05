@@ -32,7 +32,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg">
+										<img src="assets/images/sungyeol5.jpg" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Venjie Mendez</h2>
@@ -44,7 +44,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg">
+										<img src="assets/images/sungyeol5.jpg"class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Lyle Angeline Paulo</h2>
@@ -55,7 +55,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg">
+										<img src="assets/images/sungyeol5.jpg" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Edward Vincent Anabo</h2>
@@ -72,7 +72,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg">
+										<img src="assets/images/sungyeol5.jpg" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Mark Lawrence Cruz</h2>
@@ -84,7 +84,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg">
+										<img src="assets/images/sungyeol5.jpg" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Mary Rose Apoyon</h2>
@@ -96,7 +96,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg">
+										<img src="assets/images/sungyeol5.jpg " class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Janine Sabado</h2>
@@ -113,7 +113,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg">
+										<img src="assets/images/sungyeol5.jpg" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Elijah Ivan Estrella</h2>
