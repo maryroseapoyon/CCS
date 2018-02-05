@@ -32,7 +32,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg" class="img-circle">
+										<img src="assets/images/nodp.png" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Venjie Mendez</h2>
@@ -44,7 +44,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg"class="img-circle">
+										<img src="assets/images/nodp.png"class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Lyle Angeline Paulo</h2>
@@ -55,7 +55,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg" class="img-circle">
+										<img src="assets/images/nodp.png" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Edward Vincent Anabo</h2>
@@ -72,7 +72,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg" class="img-circle">
+										<img src="assets/images/nodp.png" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Mark Lawrence Cruz</h2>
@@ -84,7 +84,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg" class="img-circle">
+										<img src="assets/images/nodp.png" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Mary Rose Apoyon</h2>
@@ -96,7 +96,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg " class="img-circle">
+										<img src="assets/images/nodp.png " class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Janine Sabado</h2>
@@ -113,7 +113,7 @@
 							<div class="col-md-4 col-sm-6">
 								<div class="icon-box">
 									<div class="icon">
-										<img src="assets/images/sungyeol5.jpg" class="img-circle">
+										<img src="assets/images/nodp.png" class="img-circle">
 									</div>
 									<div class="icon-box-text">
 										<h2>Elijah Ivan Estrella</h2>
@@ -128,54 +128,8 @@
 		</div>
 	</div>
 	<!-- page section end-->
-
+<hr/>
 	
-	<!-- Contact section -->
-	<div class="contact-section spad fix">
-		<div class="container">
-			<div class="row">
-				<!-- contact info -->
-				<div class="col-md-5 col-md-offset-1 contact-info col-push">
-					<div class="section-title left">
-						<h2>Contact us</h2>
-					</div>
-					<p>Follow-up on your concerns. </p>
-					<h3 class="mt60">Main Office</h3>
-					<p class="con-item">Ayala Blvd., Ermita <br>Manila, Metro Manila <br> TUP/COS-Manila </p>
-					<p class="con-item">0034 37483 2445 322</p>
-					<p class="con-item">consumercoopsolutions@tup.edu.ph</p>
-				</div>
-				<!-- contact form -->
-				<div class="col-md-6 col-pull">
-					<form class="form-class" id="con_form">
-						<div class="row">
-							<div class="col-sm-6">
-								<input type="text" name="name" placeholder="Your name">
-							</div>
-							<div class="col-sm-6">
-								<input type="text" name="email" placeholder="Your email">
-							</div>
-							<div class="col-sm-12">
-								<input type="text" name="subject" placeholder="Subject">
-								<textarea name="message" placeholder="Message"></textarea>
-								<button class="site-btn">send</button>
-							</div>
-						</div>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- Contact section end-->
+	
 
 
-
-	<!--====== Javascripts & Jquery ======-->
-	<script src="../assets/js/jquery-2.1.4.min.js"></script>
-	<script src="../assets/js/bootstrap.min.js"></script>
-	<script src="../assets/js/magnific-popup.min.js"></script>
-	<script src="../assets/js/owl.carousel.min.js"></script>
-	<script src="../assets/js/circle-progress.min.js"></script>
-	<script src="../assets/js/main.js"></script>
-</body>
-</html>
