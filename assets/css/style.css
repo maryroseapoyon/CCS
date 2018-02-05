@@ -13,11 +13,18 @@ html,
 body {
 	height: 100%;
 	font-family: "Roboto", sans-serif;
+	background-image: url('../images/overlay.png');
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	background-attachment: fixed;
+	background-size:cover;
+	background-position: center center;
+	
 }
 
-img {
-	max-width: 100%;
-}
+
+
+
 
 h1,
 h2,
@@ -36,7 +43,6 @@ h2 {
 
 p {
 	font-size: 15px;
-	color: #ffffff;
 	line-height: 30px;
 	font-family: Arial;
 }
