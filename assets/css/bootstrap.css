@@ -1,21 +1,17 @@
-html {
-  font-family: sans-serif;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-}
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter,  Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%}
 body {
-	
-    margin-right: 0px;
-	
+    margin: 0;
 }
-#bg{ background-image: url('../images/overlay.png');
-	
-}
-
-		
-		
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
     display: block;
+}
 audio, canvas, progress, video {
     display: inline-block;
     vertical-align: baseline;
@@ -29,7 +25,6 @@ audio:not([controls]) {
 }
 a {
     background-color: transparent;
-	
 }
 a:active, a:hover {
     outline: 0;
@@ -2146,9 +2141,8 @@ select[multiple].input-lg, textarea.input-lg {
 }.btn {
     display: inline-block;
     padding: 6px 12px;
-	margin-top:1px;
     margin-bottom: 0;
-    font-size: 30px;
+    font-size: 14px;
     font-weight: 400;
     line-height: 1.42857143;
     text-align: center;
@@ -2164,9 +2158,6 @@ select[multiple].input-lg, textarea.input-lg {
     background-image: none;
     border: 1px solid transparent;
     border-radius: 4px;
-	font-family: Arial;
-	color: #ffffff;
-	
 }
 .btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
     outline: 5px auto -webkit-focus-ring-color;
@@ -2175,7 +2166,6 @@ select[multiple].input-lg, textarea.input-lg {
 .btn.focus, .btn:focus, .btn:hover {
     color: #333;
     text-decoration: none;
-
 }
 .btn.active, .btn:active {
     background-image: none;
@@ -2195,7 +2185,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
 }
 .btn-default {
     color: #333;
-    background-color: #00FFFF;
+    background-color: #fff;
     border-color: #ccc;
 }
 .btn-default.focus, .btn-default:focus {
@@ -2233,7 +2223,6 @@ a.btn.disabled, fieldset[disabled] a.btn {
     color: #fff;
     background-color: #337ab7;
     border-color: #2e6da4;
-	
 }
 .btn-primary.focus, .btn-primary:focus {
     color: #fff;
@@ -2883,41 +2872,6 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
     z-index: 2;
     margin-left: -1px;
 }
-
-.navbar-custom {
-    background-color:#66b2b2;
-    color:#ffffff;
-    border-radius:0;
-}
-
-.navbar-custom .navbar-nav > li > a {
-    color:#fff;
-}
-
-.navbar-custom .navbar-nav > .active > a {
-    color: #ffffff;
-    background-color:transparent;
-}
-
-.navbar-custom .navbar-nav > li > a:hover,
-.navbar-custom .navbar-nav > li > a:focus,
-.navbar-custom .navbar-nav > .active > a:hover,
-.navbar-custom .navbar-nav > .active > a:focus,
-.navbar-custom .navbar-nav > .open >a {
-    text-decoration: none;
-    background-color: #33aa33;
-}
-
-.navbar-custom .navbar-brand {
-    color:#eeeeee;
-}
-.navbar-custom .navbar-toggle {
-    background-color:#eeeeee;
-}
-.navbar-custom .icon-bar {
-    background-color:#33aa33;
-}
-
 .nav {
     padding-left: 0;
     margin-bottom: 0;
@@ -3223,7 +3177,6 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 }
 }.navbar-nav {
     margin: 7.5px -15px;
-
 }
 .navbar-nav>li>a {
     padding-top: 10px;
@@ -3380,7 +3333,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
     margin-right: 0;
 }
 }.navbar-default {
-    background-color: #00CDCD;
+    background-color: #f8f8f8;
     border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
@@ -3393,7 +3346,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 .navbar-default .navbar-text {
     color: #777;
 }
-.navbar-default li>a {
+.navbar-default .navbar-nav>li>a {
     color: #777;
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
@@ -5253,4 +5206,4 @@ td.visible-print, th.visible-print {
     display: none!important;
 }
 }
-/*# sourceMappingURL=bootstrap.min.css.map */
+/*# source

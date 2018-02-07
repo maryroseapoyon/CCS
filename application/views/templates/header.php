@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <html lang="en">
 <head>
-	<title>Consumer Cooperatives Solution</title>
+	<title>Labs - Design Studio</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Labs - Design Studio">
 	<meta name="keywords" content="lab, onepage, creative, html">
@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700|Roboto:300,400,700" rel="stylesheet">
 
 	<!-- Stylesheets -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="assets/css/bootstrap.css"/>
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css"/>
 	<link rel="stylesheet" href="assets/css/flaticon.css"/>
 	<link rel="stylesheet" href="assets/css/magnific-popup.css"/>
@@ -29,22 +29,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<![endif]-->
 
 </head>
-<body style="background-image: url('assets/images/bg.gif');">
+<body>
+	
+
 	<!-- Header section -->
 	<header class="header-section">
 		<div class="logo">
-			<img src="../images/logo.png" alt=""><!-- Logo -->
+			<img src="assets/images/logo.png" alt=""><!-- Logo -->
 		</div>
 		<!-- Navigation -->
 		<div class="responsive"><i class="fa fa-bars"></i></div>
-		<nav class="navbar-default navbar-fixed-top">
+		<nav>
 			<ul class="menu-list">
-				<li><a href="<?php echo base_url(); ?>home"><i class="fa fa-home"></i></a></li>
-				<li><a href="<?php echo base_url(); ?>contact"><i class="fa fa-phone-square"></i></a></li>
-				<li><a href="<?php echo base_url(); ?>elements"><i class="fa fa-info"></i></a></li>
-				<li><a href="<?php echo base_url(); ?>login"><i class="fa fa-user"></i></a></li>
+				<li><a href="<?php echo base_url(); ?>home"><i class="fa fa-home"></i>Home</a></li>
+				<li><a href="<?php echo base_url(); ?>contact"><i class="fa fa-phone"></i>Contact</a></li>
+				<li><a href="<?php echo base_url(); ?>about"><i class="fa fa-info"></i>About Us</a></li>
+				<li><a href="<?php echo base_url(); ?>"><i class="fa fa-user"></i>Log in</a></li>
 			</ul>
 		</nav>
-		
 	</header>
 	<!-- Header section end -->

@@ -13,18 +13,12 @@ html,
 body {
 	height: 100%;
 	font-family: "Roboto", sans-serif;
-	background-image: url('../images/overlay.png');
-	background-repeat: no-repeat;
-	-webkit-background-size:cover;
-	background-attachment: fixed;
-	background-size:cover;
-	background-position: center center;
-	
+	background-image: url("assets/images/bg.gif");
 }
 
-
-
-
+img {
+	max-width: 100%;
+}
 
 h1,
 h2,
@@ -43,15 +37,16 @@ h2 {
 
 p {
 	font-size: 15px;
+	color: #6c6e7e;
 	line-height: 30px;
-	font-family: Arial;
+	font-family: "Roboto", sans-serif;
 }
 
 a:hover,
 a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #fffff;
+	color: #0b1033;
 }
 
 li,
@@ -715,7 +710,7 @@ ul {
 	font-size: 24px;
 	font-weight: 400;
 	margin-bottom: 20px;
-	color: #fff;
+	color: #000;
 }
 
 .member h3 {
@@ -768,7 +763,7 @@ ul {
 	height: 100%;
 	right: -15px;
 	top: 0;
-	background: #00CDCD;
+	background: #6a23b5;
 	z-index: -1;
 }
 
