@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <html lang="en">
 <head>
-	<title>Labs - Design Studio</title>
+	<title>Consumer Cooperative Solution</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Labs - Design Studio">
 	<meta name="keywords" content="lab, onepage, creative, html">
